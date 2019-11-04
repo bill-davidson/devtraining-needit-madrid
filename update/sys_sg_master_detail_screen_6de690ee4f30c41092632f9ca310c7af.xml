@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item display_value="My Open NeedIt Requests">ae1e486a4f30c41092632f9ca310c749</data_item>
+        <description>View my open NeedIt records</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="address-book">35ed196e4ff0c41092632f9ca310c708</icon>
+        <name>My Open NeedIt Requests</name>
+        <order>10</order>
+        <parent>699b8ce64f30c41092632f9ca310c74f</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-01 13:50:24</sys_created_on>
+        <sys_id>6de690ee4f30c41092632f9ca310c7af</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>My Open NeedIt Requests</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_6de690ee4f30c41092632f9ca310c7af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-04 15:40:43</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=6de690ee4f30c41092632f9ca310c7af"/>
+</record_update>
